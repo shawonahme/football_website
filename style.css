@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main_head{
+    background-color: #2D25A0;
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    justify-content:space-between ;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0px;
+    /* height: 100%; */
+    align-items: center;
+}
+.na_li{
+    display:inline-block;
+    padding: 0px 15px;
+}
+.na_a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.nav_btn{
+    display: flex;
+    background-color: #E02C6D;
+    padding: 10px 0px;
+    cursor: pointer;
+}
+.nav_img{
+    text-align: center;
+    width: 50%;
+    /* background-color: yellow; */
+    
+}
+.nav_img img{
+    width: 50%;
+}
+.main_btn a ,i{
+color: white;
+text-decoration: none;
+font-size: 1.1rem;
+padding-right: 20px;
+
+}
+.bannar_content{
+    display: flex;
+    width: 80%;
+    margin: 30px auto;
+}
+.ban_1{
+    width: 50%;
+    padding: 60px 0px;
+}
+.ban_h1{
+    color: white;
+    font-size: 3.5rem;
+    /* padding-right: 30px; */
+    line-height: 4.5rem;
+}
+.ban_2{
+width: 50%;
+}
+.ban_2 img{
+    width: 100%;
+}
+
+.watch_btn{
+    display: inline-block;
+    background-color: #E02C6D;
+padding: 10px 10px;
+cursor: pointer;
+margin-top: 20px;
+
+
+
+}
+.watch_btn a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    
+}
+
+
