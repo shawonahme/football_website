@@ -1,0 +1,250 @@
+@media screen  and (max-width:576px){
+    .main_head{
+    height: 100%;
+    } 
+    .nav_ul{
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+    .bannar_content{
+        flex-direction: column;
+    }
+    .ban_2{
+        width: 100%;
+    }
+    .ban_1{
+        width: 100%;
+    }
+    .ban_h1{
+        font-size: 3rem;
+        line-height: normal;
+    }
+    section.footer_section {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .footer_card{
+        margin: 0px;
+    }
+   
+    
+   
+ 
+  
+    section.highligt_section {
+        flex-direction: column;
+    }
+    
+    .high_1 {
+        margin: 30px 0px;
+        padding: 0;
+    }
+    
+    p.high_p {
+        padding-right: 0px;
+    }
+    
+    h1.high_h1 {
+        font-size: 2rem;
+    }
+    
+    footer.football_footer {
+        width: 80%;
+        margin: 50px auto;
+     
+    }
+    
+    .footer_img_container {
+        width: 60%;
+        margin: 0px auto;
+    }
+    .footer_li {
+        width: 15%;
+        padding: 5px;
+    }
+    ul.footer_ul {
+        width: 60%;
+        margin: 0px auto;
+    }
+    
+    p.footer_copyright {
+        margin: 0px auto;
+    }
+    
+   
+}
+
+@media screen  and (min-width:576.1px) and (max-width:768px) {
+    
+
+    section.footer_section {
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    }
+    header.main_head {
+        height: 100%;
+    }
+    
+    header.main_head {
+        height: 100%;
+    }
+    
+    nav.navbar {
+        width: 90%;
+        font-size: .8rem;
+    }
+    
+    li.na_li {
+        padding: 0px 5px;
+    }
+    
+    
+    
+    h2.footer_h2 {
+        font-size: 1.3rem;
+        padding: 5px 0px;
+    }
+    
+    
+    
+    .card_content {
+        padding: 10px;
+    }
+    
+    
+    .bannar_content {
+        width: 90%;
+    }
+    
+    h1.ban_h1 {
+        font-size: 2.5rem;
+        line-height: normal;
+    }
+    
+    .ban_1 {
+        padding-top: 0px;
+    }
+    
+    .nav_btn {
+        font-size: .9rem;
+        padding: 5px 0px;
+    }
+    .footer_card {
+        margin: 0px;
+    }
+    section.highligt_section {
+        flex-direction: column;
+    }
+    
+    .high_1 {
+        margin: 30px 0px;
+        padding: 0;
+    }
+    
+    p.high_p {
+        padding-right: 0px;
+    }
+    
+    h1.high_h1 {
+        font-size: 2rem;
+    }
+    
+    footer.football_footer {
+        width: 80%;
+        margin: 50px auto;
+     
+    }
+    
+    .footer_img_container {
+        width: 60%;
+        margin: 0px auto;
+    }
+    .footer_li {
+        width: 10%;
+        padding: 5px;
+    }
+    ul.footer_ul {
+        width: 60%;
+        margin: 0px auto;
+    }
+    
+    p.footer_copyright {
+        margin: 0px auto;
+    }
+}
+
+@media screen and (min-width:768.1px) and (max-width:992px) {
+    li.na_li {
+        padding: 0px 10px;
+    }
+    
+    header.main_head {
+        height: 100%;
+    }
+    
+    .ban_2 {
+        width: 71%;
+    }
+    
+    .ban_1 {
+        padding-top: 0px;
+    }
+    
+    .bannar_content {
+        margin-top: 50px;
+    }
+    
+    section.footer_section {
+        gap: 20px;
+    }
+    
+    .footer_card {
+        margin: 0px;
+    }
+    
+    .card_content {
+        padding: 10px;
+    }
+    
+    h2.footer_h2 {
+        font-size: 1.2rem;
+        padding: 5px;
+    }
+    
+    
+    
+    .high_1 {
+        padding: 0px;
+        
+    }
+    
+    
+    
+    h1.high_h1 {
+        padding: 0px;
+    }
+    
+    footer.football_footer {
+        width: 80%;
+        margin: 50px auto;
+     
+    }
+    
+    .footer_img_container {
+        width: 60%;
+        margin: 0px auto;
+    }
+    .footer_li {
+        width: 10%;
+        padding: 5px;
+    }
+    ul.footer_ul {
+        width: 60%;
+        margin: 0px auto;
+    }
+    
+    p.footer_copyright {
+        margin: 0px auto;
+    }
+}

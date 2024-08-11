@@ -10,6 +10,9 @@ body{
     background-color: #2D25A0;
     height: 100vh;
 }
+.bar{
+    display: none;
+}
 .navbar{
     display: flex;
     justify-content:space-between ;
@@ -126,7 +129,7 @@ margin-top: 20px;
 .highligt_section{
     display: flex;
     width: 80%;
-    margin: 50px auto;
+    margin: 100px auto;
 
     justify-content: space-between;
     
